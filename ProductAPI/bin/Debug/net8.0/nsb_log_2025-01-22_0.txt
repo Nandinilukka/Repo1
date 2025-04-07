@@ -1,0 +1,43 @@
+﻿2025-01-22 10:05:26.669 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-22 10:05:26.882 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-22 10:05:26.888 WARN  Trial license expiring in 1 day. Get your free development license at https://particular.net/license/nservicebus?v=9.2.3&t=0&p=windows&f=8
+2025-01-22 10:07:48.490 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-22 10:07:48.662 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-22 10:07:48.686 WARN  Trial license expiring in 1 day. Get your free development license at https://particular.net/license/nservicebus?v=9.2.3&t=0&p=windows&f=8
+2025-01-22 10:18:20.002 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-22 10:18:20.188 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-22 10:18:20.196 WARN  Trial license expiring in 1 day. Get your free development license at https://particular.net/license/nservicebus?v=9.2.3&t=0&p=windows&f=8
+2025-01-22 11:22:46.708 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-22 11:22:46.899 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-22 11:22:46.906 WARN  Trial license expiring in 1 day. Get your free development license at https://particular.net/license/nservicebus?v=9.2.3&t=0&p=windows&f=8
+2025-01-22 11:30:31.512 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-22 11:30:31.694 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-22 11:30:31.699 WARN  Trial license expiring in 1 day. Get your free development license at https://particular.net/license/nservicebus?v=9.2.3&t=0&p=windows&f=8
+2025-01-22 11:33:13.921 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-22 11:33:14.102 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-22 11:33:14.113 WARN  Trial license expiring in 1 day. Get your free development license at https://particular.net/license/nservicebus?v=9.2.3&t=0&p=windows&f=8
+2025-01-22 11:38:39.435 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-22 11:38:39.580 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-22 11:38:39.606 WARN  Trial license expiring in 1 day. Get your free development license at https://particular.net/license/nservicebus?v=9.2.3&t=0&p=windows&f=8
+2025-01-22 11:43:09.496 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-22 11:43:09.691 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-22 11:43:09.703 WARN  Trial license expiring in 1 day. Get your free development license at https://particular.net/license/nservicebus?v=9.2.3&t=0&p=windows&f=8
+2025-01-22 12:07:02.529 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-22 12:07:02.707 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-22 12:07:02.714 WARN  Trial license expiring in 1 day. Get your free development license at https://particular.net/license/nservicebus?v=9.2.3&t=0&p=windows&f=8
+2025-01-22 12:08:14.282 WARN  You are using a basic message to do pub/sub. Consider implementing the more specific ICommand and IEvent interfaces on the type 'BuisinessLogicLayer.RabbitMqCommands.CreateProductCommand' to help NServiceBus to enforce messaging best practices for you.
+2025-01-22 12:10:46.800 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-22 12:10:46.986 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-22 12:10:46.992 WARN  Trial license expiring in 1 day. Get your free development license at https://particular.net/license/nservicebus?v=9.2.3&t=0&p=windows&f=8
+2025-01-22 12:11:53.880 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-22 12:11:54.075 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-22 12:11:54.079 WARN  Trial license expiring in 1 day. Get your free development license at https://particular.net/license/nservicebus?v=9.2.3&t=0&p=windows&f=8
+2025-01-22 12:13:23.826 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-22 12:13:23.995 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-22 12:13:24.000 WARN  Trial license expiring in 1 day. Get your free development license at https://particular.net/license/nservicebus?v=9.2.3&t=0&p=windows&f=8
+2025-01-22 12:18:38.279 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-22 12:18:38.434 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-22 12:18:38.439 WARN  Trial license expiring in 1 day. Get your free development license at https://particular.net/license/nservicebus?v=9.2.3&t=0&p=windows&f=8
+2025-01-22 12:21:02.427 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-22 12:21:02.573 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-22 12:21:02.578 WARN  Trial license expiring in 1 day. Get your free development license at https://particular.net/license/nservicebus?v=9.2.3&t=0&p=windows&f=8

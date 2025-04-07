@@ -1,0 +1,56 @@
+﻿2025-01-17 15:00:40.184 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-17 15:00:40.354 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-17 15:01:12.846 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-17 15:01:13.017 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-17 15:02:38.819 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-17 15:02:38.995 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-17 15:05:29.250 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-17 15:05:29.405 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-17 15:06:15.122 WARN  You are using a basic message to do pub/sub. Consider implementing the more specific ICommand and IEvent interfaces on the type 'BuisinessLogicLayer.RabbitMqCommands.CreateProductCommand' to help NServiceBus to enforce messaging best practices for you.
+2025-01-17 15:16:32.194 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-17 15:16:32.345 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-17 15:16:53.465 WARN  You are using a basic message to do pub/sub. Consider implementing the more specific ICommand and IEvent interfaces on the type 'BuisinessLogicLayer.RabbitMqCommands.CreateProductCommand' to help NServiceBus to enforce messaging best practices for you.
+2025-01-17 15:57:42.552 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-17 15:57:42.695 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-17 16:05:25.761 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-17 16:05:25.909 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-17 16:08:58.280 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-17 16:08:58.426 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-17 17:09:51.581 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-17 17:09:51.714 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-17 17:12:44.438 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-17 17:12:44.580 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-17 17:17:32.796 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-17 17:17:32.945 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-17 17:18:08.594 WARN  You are using a basic message to do pub/sub. Consider implementing the more specific ICommand and IEvent interfaces on the type 'BuisinessLogicLayer.RabbitMqCommands.CreateProductCommand' to help NServiceBus to enforce messaging best practices for you.
+2025-01-17 17:36:10.552 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-17 17:36:10.700 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-17 17:41:37.395 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-17 17:41:37.577 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-17 17:41:58.561 WARN  You are using a basic message to do pub/sub. Consider implementing the more specific ICommand and IEvent interfaces on the type 'BuisinessLogicLayer.RabbitMqCommands.CreateProductCommand' to help NServiceBus to enforce messaging best practices for you.
+2025-01-17 18:10:26.239 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-17 18:10:26.427 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-17 18:12:36.151 WARN  You are using a basic message to do pub/sub. Consider implementing the more specific ICommand and IEvent interfaces on the type 'BuisinessLogicLayer.RabbitMqCommands.CreateProductCommand' to help NServiceBus to enforce messaging best practices for you.
+2025-01-17 18:16:39.876 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-17 18:16:40.041 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-17 18:21:32.517 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-17 18:21:32.703 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-17 18:27:32.749 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-17 18:27:32.937 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-17 18:27:45.655 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-17 18:27:45.787 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-17 18:30:38.500 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-17 18:30:38.648 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-17 18:39:55.019 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-17 18:39:55.197 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-17 18:43:05.704 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-17 18:43:05.858 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-17 18:43:36.510 WARN  You are using a basic message to do pub/sub. Consider implementing the more specific ICommand and IEvent interfaces on the type 'BuisinessLogicLayer.RabbitMqCommands.CreateProductCommand' to help NServiceBus to enforce messaging best practices for you.
+2025-01-17 18:44:18.609 WARN  You are using a basic message to do pub/sub. Consider implementing the more specific ICommand and IEvent interfaces on the type 'BuisinessLogicLayer.RabbitMqCommands.CreateProductCommand' to help NServiceBus to enforce messaging best practices for you.
+2025-01-17 18:58:17.611 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-17 18:58:17.790 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-17 18:59:31.034 WARN  You are using a basic message to do pub/sub. Consider implementing the more specific ICommand and IEvent interfaces on the type 'BuisinessLogicLayer.RabbitMqCommands.CreateProductCommand' to help NServiceBus to enforce messaging best practices for you.
+2025-01-17 19:01:41.569 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-17 19:01:41.744 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-17 19:02:02.717 WARN  You are using a basic message to do pub/sub. Consider implementing the more specific ICommand and IEvent interfaces on the type 'BuisinessLogicLayer.RabbitMqCommands.CreateProductCommand' to help NServiceBus to enforce messaging best practices for you.
+2025-01-17 19:02:47.637 WARN  You are using a basic message to do pub/sub. Consider implementing the more specific ICommand and IEvent interfaces on the type 'BuisinessLogicLayer.RabbitMqCommands.CreateProductCommand' to help NServiceBus to enforce messaging best practices for you.

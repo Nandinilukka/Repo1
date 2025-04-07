@@ -1,0 +1,3 @@
+﻿2025-02-06 15:28:43.812 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-02-06 15:28:43.994 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-02-06 15:28:44.026 ERROR Trial license expired. Get your free development license at https://particular.net/license/nservicebus?v=9.2.3&t=0&p=windows&f=8

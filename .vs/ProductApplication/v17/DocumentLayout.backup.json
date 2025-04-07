@@ -1,0 +1,533 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C40AF66-9B05-4B52-86B8-476A6707D0D1}|ProductAPI\\ProductAPI.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\productapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C40AF66-9B05-4B52-86B8-476A6707D0D1}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\buisinesslogiclayer\\inputloopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|solutionrelative:buisinesslogiclayer\\inputloopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C40AF66-9B05-4B52-86B8-476A6707D0D1}|ProductAPI\\ProductAPI.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C40AF66-9B05-4B52-86B8-476A6707D0D1}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\buisinesslogiclayer\\buisinesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|solutionrelative:buisinesslogiclayer\\buisinesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\buisinesslogiclayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|solutionrelative:buisinesslogiclayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\buisinesslogiclayer\\handlers\\mycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|solutionrelative:buisinesslogiclayer\\handlers\\mycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\buisinesslogiclayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|solutionrelative:buisinesslogiclayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B7A211-3944-459A-A911-BD8CE217FA59}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\dataaccesslayer\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B7A211-3944-459A-A911-BD8CE217FA59}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B7A211-3944-459A-A911-BD8CE217FA59}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\dataaccesslayer\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B7A211-3944-459A-A911-BD8CE217FA59}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C40AF66-9B05-4B52-86B8-476A6707D0D1}|ProductAPI\\ProductAPI.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C40AF66-9B05-4B52-86B8-476A6707D0D1}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B7A211-3944-459A-A911-BD8CE217FA59}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4B7A211-3944-459A-A911-BD8CE217FA59}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\buisinesslogiclayer\\rabbitmqcommands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|solutionrelative:buisinesslogiclayer\\rabbitmqcommands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\buisinesslogiclayer\\commands\\addproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|solutionrelative:buisinesslogiclayer\\commands\\addproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\buisinesslogiclayer\\rabbitmqcommands\\deleteproductscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|solutionrelative:buisinesslogiclayer\\rabbitmqcommands\\deleteproductscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B7A211-3944-459A-A911-BD8CE217FA59}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\dataaccesslayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B7A211-3944-459A-A911-BD8CE217FA59}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B7A211-3944-459A-A911-BD8CE217FA59}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\dataaccesslayer\\model\\mqttsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B7A211-3944-459A-A911-BD8CE217FA59}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\model\\mqttsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\buisinesslogiclayer\\handlers\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|solutionrelative:buisinesslogiclayer\\handlers\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B7A211-3944-459A-A911-BD8CE217FA59}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\dataaccesslayer\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B7A211-3944-459A-A911-BD8CE217FA59}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\buisinesslogiclayer\\handlers\\addproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|solutionrelative:buisinesslogiclayer\\handlers\\addproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\buisinesslogiclayer\\commands\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|solutionrelative:buisinesslogiclayer\\commands\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\buisinesslogiclayer\\handlers\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|solutionrelative:buisinesslogiclayer\\handlers\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\buisinesslogiclayer\\queries\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|solutionrelative:buisinesslogiclayer\\queries\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\buisinesslogiclayer\\queries\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|solutionrelative:buisinesslogiclayer\\queries\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C40AF66-9B05-4B52-86B8-476A6707D0D1}|ProductAPI\\ProductAPI.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\productapi\\productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C40AF66-9B05-4B52-86B8-476A6707D0D1}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B7A211-3944-459A-A911-BD8CE217FA59}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\dataaccesslayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B7A211-3944-459A-A911-BD8CE217FA59}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B7A211-3944-459A-A911-BD8CE217FA59}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\dataaccesslayer\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B7A211-3944-459A-A911-BD8CE217FA59}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B7A211-3944-459A-A911-BD8CE217FA59}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\dataaccesslayer\\migrations\\20250102065951_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B7A211-3944-459A-A911-BD8CE217FA59}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\20250102065951_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\buisinesslogiclayer\\handlers\\getproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B5D0BF-6936-4F44-AE50-F1A6BE33683F}|BuisinessLogicLayer\\BuisinessLogicLayer.csproj|solutionrelative:buisinesslogiclayer\\handlers\\getproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LUNANDIN\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C40AF66-9B05-4B52-86B8-476A6707D0D1}|ProductAPI\\ProductAPI.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\productapi\\productapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9C40AF66-9B05-4B52-86B8-476A6707D0D1}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\productapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C40AF66-9B05-4B52-86B8-476A6707D0D1}|ProductAPI\\ProductAPI.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\productapi\\messages\\mymessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C40AF66-9B05-4B52-86B8-476A6707D0D1}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\messages\\mymessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C40AF66-9B05-4B52-86B8-476A6707D0D1}|ProductAPI\\ProductAPI.csproj|c:\\users\\lunandin\\source\\repos\\productapplication\\productapi\\productapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9C40AF66-9B05-4B52-86B8-476A6707D0D1}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\productapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\Handlers\\MyCommandHandler.cs",
+              "RelativeDocumentMoniker": "BuisinessLogicLayer\\Handlers\\MyCommandHandler.cs",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\Handlers\\MyCommandHandler.cs",
+              "RelativeToolTip": "BuisinessLogicLayer\\Handlers\\MyCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:36:10.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\Program.cs",
+              "RelativeDocumentMoniker": "BuisinessLogicLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\Program.cs",
+              "RelativeToolTip": "BuisinessLogicLayer\\Program.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAQwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:31:18.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InputLoopService.cs",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\InputLoopService.cs",
+              "RelativeDocumentMoniker": "BuisinessLogicLayer\\InputLoopService.cs",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\InputLoopService.cs",
+              "RelativeToolTip": "BuisinessLogicLayer\\InputLoopService.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAwNAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T08:36:49.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\ProductAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\ProductAPI\\appsettings.json",
+              "RelativeToolTip": "ProductAPI\\appsettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-02T06:55:25.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\ProductAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\ProductAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:56:35.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuisinessLogicLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\BuisinessLogicLayer.csproj",
+              "RelativeDocumentMoniker": "BuisinessLogicLayer\\BuisinessLogicLayer.csproj",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\BuisinessLogicLayer.csproj",
+              "RelativeToolTip": "BuisinessLogicLayer\\BuisinessLogicLayer.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-02T07:32:07.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\appsettings.json",
+              "RelativeDocumentMoniker": "BuisinessLogicLayer\\appsettings.json",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\appsettings.json",
+              "RelativeToolTip": "BuisinessLogicLayer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T05:19:06.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\DataAccessLayer\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\DataAccessLayer\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:07:27.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\DataAccessLayer\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\DataAccessLayer\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:48:02.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\ProductAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\ProductAPI\\Program.cs",
+              "RelativeToolTip": "ProductAPI\\Program.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAI0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:53:28.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataAccessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeToolTip": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-02T06:44:25.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\RabbitMqCommands\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "BuisinessLogicLayer\\RabbitMqCommands\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\RabbitMqCommands\\CreateProductCommand.cs",
+              "RelativeToolTip": "BuisinessLogicLayer\\RabbitMqCommands\\CreateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:22:09.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddproductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\Commands\\AddproductCommand.cs",
+              "RelativeDocumentMoniker": "BuisinessLogicLayer\\Commands\\AddproductCommand.cs",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\Commands\\AddproductCommand.cs",
+              "RelativeToolTip": "BuisinessLogicLayer\\Commands\\AddproductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:50:57.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:45:10.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeleteProductsCommand.cs",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\RabbitMqCommands\\DeleteProductsCommand.cs",
+              "RelativeDocumentMoniker": "BuisinessLogicLayer\\RabbitMqCommands\\DeleteProductsCommand.cs",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\RabbitMqCommands\\DeleteProductsCommand.cs",
+              "RelativeToolTip": "BuisinessLogicLayer\\RabbitMqCommands\\DeleteProductsCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:54:06.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MqttSettings.cs",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\DataAccessLayer\\Model\\MqttSettings.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Model\\MqttSettings.cs",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\DataAccessLayer\\Model\\MqttSettings.cs",
+              "RelativeToolTip": "DataAccessLayer\\Model\\MqttSettings.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:01:02.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetProductByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\Handlers\\GetProductByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "BuisinessLogicLayer\\Handlers\\GetProductByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\Handlers\\GetProductByIdQueryHandler.cs",
+              "RelativeToolTip": "BuisinessLogicLayer\\Handlers\\GetProductByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAlwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:06:34.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\DataAccessLayer\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\DataAccessLayer\\Model\\Product.cs",
+              "RelativeToolTip": "DataAccessLayer\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:29:26.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\Handlers\\AddProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "BuisinessLogicLayer\\Handlers\\AddProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\Handlers\\AddProductCommandHandler.cs",
+              "RelativeToolTip": "BuisinessLogicLayer\\Handlers\\AddProductCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T09:16:10.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DeleteProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\Commands\\DeleteProductCommand.cs",
+              "RelativeDocumentMoniker": "BuisinessLogicLayer\\Commands\\DeleteProductCommand.cs",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\Commands\\DeleteProductCommand.cs",
+              "RelativeToolTip": "BuisinessLogicLayer\\Commands\\DeleteProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:12:33.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DeleteProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\Handlers\\DeleteProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "BuisinessLogicLayer\\Handlers\\DeleteProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\Handlers\\DeleteProductCommandHandler.cs",
+              "RelativeToolTip": "BuisinessLogicLayer\\Handlers\\DeleteProductCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:15:02.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetAllProductsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\Queries\\GetAllProductsQuery.cs",
+              "RelativeDocumentMoniker": "BuisinessLogicLayer\\Queries\\GetAllProductsQuery.cs",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\Queries\\GetAllProductsQuery.cs",
+              "RelativeToolTip": "BuisinessLogicLayer\\Queries\\GetAllProductsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T09:17:43.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetProductByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\Queries\\GetProductByIdQuery.cs",
+              "RelativeDocumentMoniker": "BuisinessLogicLayer\\Queries\\GetProductByIdQuery.cs",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\Queries\\GetProductByIdQuery.cs",
+              "RelativeToolTip": "BuisinessLogicLayer\\Queries\\GetProductByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:03:54.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\ProductAPI\\ProductAPI.csproj",
+              "RelativeDocumentMoniker": "ProductAPI\\ProductAPI.csproj",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\ProductAPI\\ProductAPI.csproj",
+              "RelativeToolTip": "ProductAPI\\ProductAPI.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-09T05:26:54.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\DataAccessLayer\\Program.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\DataAccessLayer\\Program.cs",
+              "RelativeToolTip": "DataAccessLayer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:09:29.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\DataAccessLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\DataAccessLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T17:01:10.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250102065951_products.cs",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\DataAccessLayer\\Migrations\\20250102065951_products.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20250102065951_products.cs",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\DataAccessLayer\\Migrations\\20250102065951_products.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20250102065951_products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:59:51.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetProductsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\Handlers\\GetProductsQueryHandler.cs",
+              "RelativeDocumentMoniker": "BuisinessLogicLayer\\Handlers\\GetProductsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\BuisinessLogicLayer\\Handlers\\GetProductsQueryHandler.cs",
+              "RelativeToolTip": "BuisinessLogicLayer\\Handlers\\GetProductsQueryHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAlwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:47:07.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Monitor.cs",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs",
+              "ToolTip": "C:\\Users\\LUNANDIN\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs [Read Only]",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowFcAAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T11:52:55.825Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductAPI.http",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\ProductAPI\\ProductAPI.http",
+              "RelativeDocumentMoniker": "ProductAPI\\ProductAPI.http",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\ProductAPI\\ProductAPI.http",
+              "RelativeToolTip": "ProductAPI\\ProductAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-23T04:55:14.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MyMessage.cs",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\ProductAPI\\Messages\\MyMessage.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Messages\\MyMessage.cs",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\ProductAPI\\Messages\\MyMessage.cs",
+              "RelativeToolTip": "ProductAPI\\Messages\\MyMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:40:14.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductAPI",
+              "DocumentMoniker": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\ProductAPI\\ProductAPI.csproj",
+              "RelativeDocumentMoniker": "ProductAPI\\ProductAPI.csproj",
+              "ToolTip": "C:\\Users\\LUNANDIN\\source\\repos\\ProductApplication\\ProductAPI\\ProductAPI.csproj",
+              "RelativeToolTip": "ProductAPI\\ProductAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-15T08:37:25.501Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

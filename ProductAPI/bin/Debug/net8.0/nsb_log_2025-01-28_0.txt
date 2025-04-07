@@ -1,0 +1,23 @@
+﻿2025-01-28 11:28:40.845 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-28 11:28:40.997 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-28 11:28:41.005 ERROR Trial license expired. Get your free development license at https://particular.net/license/nservicebus?v=9.2.3&t=0&p=windows&f=8
+2025-01-28 11:28:41.009 WARN  Opening browser to: https://particular.net/license/nservicebus?v=9.2.3&t=0&p=windows&f=8
+2025-01-28 11:29:06.098 ERROR Your license has expired
+2025-01-28 12:08:00.729 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-28 12:08:00.916 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-28 12:08:00.923 ERROR Trial license expired. Get your free development license at https://particular.net/license/nservicebus?v=9.2.3&t=0&p=windows&f=8
+2025-01-28 12:08:00.928 WARN  Opening browser to: https://particular.net/license/nservicebus?v=9.2.3&t=0&p=windows&f=8
+2025-01-28 12:46:30.748 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-28 12:46:30.924 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-28 12:46:30.932 ERROR Trial license expired. Get your free development license at https://particular.net/license/nservicebus?v=9.2.3&t=0&p=windows&f=8
+2025-01-28 12:46:30.937 WARN  Opening browser to: https://particular.net/license/nservicebus?v=9.2.3&t=0&p=windows&f=8
+2025-01-28 12:56:29.799 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-28 12:56:29.974 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-28 12:56:29.983 ERROR Trial license expired. Get your free development license at https://particular.net/license/nservicebus?v=9.2.3&t=0&p=windows&f=8
+2025-01-28 12:56:29.995 WARN  Opening browser to: https://particular.net/license/nservicebus?v=9.2.3&t=0&p=windows&f=8
+2025-01-28 12:56:45.403 ERROR Your license has expired
+2025-01-28 12:57:25.948 INFO  Logging to 'C:\Users\LUNANDIN\source\repos\ProductApplication\ProductAPI\bin\Debug\net8.0\' with level Info
+2025-01-28 12:57:26.114 INFO  No valid license could be found. Falling back to trial license with start date '2025-01-09'.
+2025-01-28 12:57:26.119 ERROR Trial license expired. Get your free development license at https://particular.net/license/nservicebus?v=9.2.3&t=0&p=windows&f=8
+2025-01-28 12:57:26.123 WARN  Opening browser to: https://particular.net/license/nservicebus?v=9.2.3&t=0&p=windows&f=8
+2025-01-28 13:00:40.803 ERROR Your license has expired
